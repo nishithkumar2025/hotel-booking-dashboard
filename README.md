@@ -14,7 +14,7 @@ This is a hotel booking dashboard that allows users to manage and track hotel bo
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/nishithkumar2025/hotel-booking-dashboard.git
 2. Navigate into the project directory:
    cd hotel-booking-dashboard
 3. Open index.html in your browser to view the dashboard.
